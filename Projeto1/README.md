@@ -1,0 +1,1 @@
+Desafio de front-end do "7 Days Of Code" da Alura, o desafio é recriar a página da Netflix utilizando somente HTML e CSS usando um layout do Figma
